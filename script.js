@@ -11,7 +11,7 @@ function card() {
 
     cardDisplay.innerHTML = `
     <h1>${tag}</h1>  
-    <h2>${afn} ${aln}, ${year}</h2>
+    <h2>${aln} ${afn}, ${year}</h2>
     <h3>${aa}, ${title} (${link})</h3>
     <h4>${text}</h4>
     `
